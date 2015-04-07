@@ -2,7 +2,11 @@
   "name": "frontcamp",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "seajs": "~3.0.0",
+=======
+    "seajs": "*",
+>>>>>>> ae5f20f777aede99a5bb3be6fbaa89442ac90c5c
     "jquery": "~2.1.3"
   }
 }
