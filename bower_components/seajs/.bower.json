@@ -24,6 +24,7 @@
     "commit": "d323d7ee8df0e221129cc0e777bbf7cd4463550f"
   },
   "_source": "git://github.com/seajs/seajs.git",
-  "_target": "*",
-  "_originalSource": "seajs"
+  "_target": "~3.0.0",
+  "_originalSource": "seajs",
+  "_direct": true
 }
